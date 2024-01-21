@@ -2,6 +2,8 @@
 
 ● cd somali_phonenumber_generator
 
+●pip3 install colorama
+
 ● python3 main.py
 
 
